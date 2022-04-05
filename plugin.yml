@@ -1,0 +1,13 @@
+name: LoginRegister
+api: 4.0.0
+version: 0.0.1
+main: BeeAZZ\LoginRegister\Main
+author: BeeAZZ
+
+permissions:
+ loginregister.command.login:
+  default: true
+ loginregister.command.register:
+  default: true
+ loginregister.command.checkpass:
+  default: op
